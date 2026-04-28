@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.env.*
+*.log
+tmp/
+exports/
+attachments/
+local/
+
+# Keep OAuth material and account exports out of Git.
+client_secret*.json
+google-oauth*.json
+oauth*.json
+token*.json
+credentials*.json
+*.token
+*.secret
+
+# Local, user-specific cockpit state.
+docs/active-findings.local.md
+docs/mail-triage-policy.local.md
+docs/*private*.md
