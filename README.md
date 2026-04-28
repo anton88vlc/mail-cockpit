@@ -59,7 +59,7 @@ make
 Clone this repo:
 
 ```bash
-git clone https://github.com/pix0010/mail-cockpit.git
+git clone https://github.com/anton88vlc/mail-cockpit.git
 cd mail-cockpit
 ```
 
